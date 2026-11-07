@@ -278,7 +278,7 @@ Currently developing this application as part of the AICTE EduSkills MERN Full S
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aditya-choudhury79247/aditya-choudhury79247/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 
 <br/>
 
