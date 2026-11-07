@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    src="profile.png"
+    alt="Futuristic Robot Coding Workspace"
+    width="100%"
+  />
+</div>
  <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=ADITYA%20PRASAD%20CHOUDHURY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" />
